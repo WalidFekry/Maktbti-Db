@@ -1,6 +1,6 @@
 # Maktbti Database Repository
 
-This repository contains the database files (`quran.db`, `albukhari.db`, `muslim.db`, `figh.db`) used in the Maktbti Android application.
+This repository contains the database files (`quran.db`, `albukhari.db`, `muslim.db`, `figh.db`, `msg.db`) used in the Maktbti Android application.
 
 ## Purpose
 
@@ -14,6 +14,7 @@ This repository contains the database files (`quran.db`, `albukhari.db`, `muslim
 - `albukhari.db`: Database for Sahih Al-Bukhari.
 - `muslim.db`: Database for Sahih Muslim.
 - `figh.db`: Islamic jurisprudence (Fiqh) database.
+- `msg.db`: Various Islamic messages.
 
 ## How to update
 
@@ -29,7 +30,8 @@ Example:
 `https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/quran.db`  
 `https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/albukhari.db`  
 `https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/muslim.db`  
-`https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/figh.db`
+`https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/figh.db`  
+`https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/msg.db)`
 
 ## License
 
