@@ -1,20 +1,22 @@
 # Maktbti Database Repository
 
-This repository contains the database files (`quran.db`, `albukhari.db`, `muslim.db`, `figh.db`, `msg.db`) used in the Maktbti Android application.
+This repository contains the database files used in the Maktbti Android application.
 
 ## Purpose
 
-- Centralized storage for the application database files.
-- Easy to update and maintain the database files independently from the app source code.
-- Provide reliable download URLs for the app fallback mechanism.
+* Centralized storage for the application database files.
+* Easy to update and maintain database files independently from the app source code.
+* Provide reliable download URLs for the app fallback mechanism.
 
 ## Files
 
-- `quran.db`: The main Quran database file used by the app.
-- `albukhari.db`: Database for Sahih Al-Bukhari.
-- `muslim.db`: Database for Sahih Muslim.
-- `figh.db`: Islamic jurisprudence (Fiqh) database.
-- `msg.db`: Various Islamic messages.
+* `quran.db`: The main Quran database file used by the app.
+* `albukhari.db`: Database for Sahih Al-Bukhari.
+* `muslim.db`: Database for Sahih Muslim.
+* `figh.db`: Islamic jurisprudence (Fiqh) database.
+* `msg.db`: Various Islamic messages.
+* `fatawy.db`: Database containing Islamic fatwas, including fatwas by Sheikh Abdulaziz Ibn Baz and topics related to women.
+* `library.db`: A comprehensive and diverse Islamic library containing various books and resources.
 
 ## How to update
 
@@ -24,14 +26,19 @@ This repository contains the database files (`quran.db`, `albukhari.db`, `muslim
 
 ## Download URLs
 
-Use the GitHub Releases download URL for stable, public access to the database files.  
-Example:  
+Use the GitHub Releases download URL for stable, public access to the database files.
 
-`https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/quran.db`  
-`https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/albukhari.db`  
-`https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/muslim.db`  
-`https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/figh.db`  
-`https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/msg.db)`
+Example:
+
+```text
+https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/quran.db
+https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/albukhari.db
+https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/muslim.db
+https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/figh.db
+https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/msg.db
+https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/fatawy.db
+https://github.com/WalidFekry/Maktbti-Db/releases/download/v1.0/library.db
+```
 
 ## License
 
